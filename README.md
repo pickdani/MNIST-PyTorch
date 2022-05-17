@@ -1,2 +1,4 @@
 # MNIST-PyTorch
-pytorch practice with MNIST
+pytorch CNN practice with MNIST
+
+data: https://www.kaggle.com/competitions/digit-recognizer/data
